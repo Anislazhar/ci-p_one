@@ -563,6 +563,11 @@ footer .container .social-icons li a {
     margin: 0 auto;
     box-sizing: border-box;
 }
+@media (max-width: 768px) {
+    .container {
+        flex-basis: 100%;
+    }
+}
 
 
 /* Start Animation to change Image frame color */
@@ -767,6 +772,8 @@ footer .container .social-icons li a {
     margin-left: auto;
     text-transform: uppercase;
     cursor: pointer;
+    text-shadow: 0 0 10px rgb(0, 0, 0);
+    border-radius: 50%;
 }
 
 /* Targets only the input with type submit inside the form when we focus on it ( focus on the button )  */
