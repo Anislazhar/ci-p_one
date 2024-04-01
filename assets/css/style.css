@@ -516,7 +516,6 @@ footer .container .social-icons li a {
 .gallery-content {
     padding-top: 100px;
     padding-bottom: 100px;
-    position: flex;
     background-color: rgb(236, 236, 236);
 }
 
@@ -574,10 +573,6 @@ footer .container .social-icons li a {
 @keyframes change-img-fram-color {
     50% {
         background-color: var(--main-color);
-    }
-
-    100% {
-        background-color: rgb(236, 236, 236);
     }
 }
 
