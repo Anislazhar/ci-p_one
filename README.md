@@ -1,6 +1,8 @@
 <h1 align="center"> MERCEDES-BENZ! Website</h1>
 Welcome to our website dedicated to test driving Mercedes cars. Here, you can explore the latest models, from sleek sedans to powerful SUVs, all from the comfort of your own home. Our virtual showroom offers detailed specifications, immersive 360-degree views, and interactive features to help you choose the perfect Mercedes for your lifestyle. With our intuitive interface, scheduling a test drive is just a click away. 
 
+![Site view across devices](assets/readme-images/responsive.png)
+
 The Ghost Team site is live, please [CLICK HERE](https://anislazhar.github.io/ci-p_one/) to check the website.
 
 ## Tabel of Contents
