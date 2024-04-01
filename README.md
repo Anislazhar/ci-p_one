@@ -9,11 +9,6 @@ The Ghost Team site is live, please [CLICK HERE](https://anislazhar.github.io/ci
 - [Tabel of Contents](#tabel-of-contents)
 - [UX](#ux)
   - [Site Purpose](#site-purpose)
-  - [Site Goal](#site-goal)
-  - [Audience](#audience)
-  - [Communication](#communication)
-  - [Current User Goals](#current-user-goals)
-  - [New User Goals](#new-user-goals)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Typography](#typography)
@@ -23,7 +18,7 @@ The Ghost Team site is live, please [CLICK HERE](https://anislazhar.github.io/ci
     - [Navigation bar](#navigation-bar)
     - [Landing Page](#landing-page)
     - [Gallery Page](#gallery-page)
-    - [Missions Page](#missions-page)
+    - [Promo Page](#promo-page)
     - [Contact Page](#contact-page)
     - [Footer and Social Links](#footer-and-social-links)
   - [Future Features](#future-features)
@@ -59,9 +54,6 @@ The colour palette was created by [Coolors](https://coolors.co) with the idea to
 ### Imagery
 All the images on the site were sourced from free gaming stock photo platforms. The brightness, exposure, contrast and shadows of some photos in gallery section were adjusted to make it more clear and modern for displaying.
 
-## Features
-
-### Existing Features
 #### Navigation bar
 This is included across all the four pages, and provides people with an easy and animate reference to navigate between the 'Home', 'Gallery', 'Promo' & 'Contact' pages.
 
@@ -85,7 +77,7 @@ Next on this page is a Mercedes-Benz photos with a creative decoration frame tha
 #### Promo Page
 In this page we have an auto play video for the last version of Mercedes-Benz Promotion, and the video was covered with a top dark layer as a decoration to make the video more elegant and mainly to make the text content above the video more clear and readable without being distracted.
 
-![Missions content](assets/readme-images/promo-content.png)
+![Promo content](assets/readme-images/promo-content.png)
 
 #### Contact Page
 The title of contact page is big with color changing effect and installed at the top of the page to achieve the goal of reminding the users of the page's intent.
