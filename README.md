@@ -68,7 +68,7 @@ This is included across all the four pages, and provides people with an easy and
 #### Landing Page
 It defines the soul of the website, providing the user with an animated image goes up and down, and beside this photo there are main title and text that be can easily associated to what the Website is about.
 
-![Landing section](assets/readme-images/test-cars-sec.png)
+![Landing section](assets/readme-images/landing-sec.png)
 
 The upcoming cars section is listed right beneath the landing section, its title has feautre of color changing between (black, sky calm blue) to make the visitor more excited. This section is to provide visitors with full information about Mercedes-Benz events, and to give important details such as locations, date/time, also other information in order to enable the COD players and even normal vistors to plane their attend early. Each event designed as a card with a small arrow on the bottom of the card so when the vistor hover the cursor on event's card the card will be moving a littel bit up and the arrow on the card bottom of the card will start to move untill the user take the cursor out of the card. These movings give the visitors good feeling and push them to interact with events selection by easliy clicking on Read More link if the visitors want to see more details about that event.
 
@@ -78,7 +78,7 @@ The title of gallery page is big with color changing effect and installed at the
 
 Next on this page is a Mercedes-Benz photos with a creative decoration frame that changes its colors and shows that the page is regularly updated with newest photos. Additionally there is one small square decoration with color changing effect before the first photo and another one after the last photo. The purpose fro those two decoration is to notify the visitor in a creative way about the start and the end of the photos.
 
-![Gallery content](assets/readme-images/gallery-content.png)
+![Gallery content](assets/readme-images/gallery-section.png)
 
 #### Promo Page
 In this page we have an auto play video for the last version of Mercedes-Benz Promotion, and the video was covered with a top dark layer as a decoration to make the video more elegant and mainly to make the text content above the video more clear and readable without being distracted.
@@ -183,10 +183,10 @@ The Footer also has simple design and contains only links to Ghost team social m
 - In the GitHub repository, navigate to the Settings tab
 - From the source section drop-down menu, select the main Branch
 - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-- The live link can be found [HERE - GHOST-COD-T](https://alakeldev.github.io/ghost-cod-team-website-pp1/)
+- The live link can be found [HERE - Mercedes-Benz](https://anislazhar.github.io/ci-p_one/)
 
  ### How to clone
-- Go to the following repository on GitHub: https://github.com/alakeldev/ghost-cod-team-website-pp1
+- Go to the following repository on GitHub: https://github.com/Anislazhar/ci-p_one
 - At the top right of the screen, click the 'Code' button, and then click 'HTTPs'
 - Copy the link in this field
 - Open VS-code, creat new project folder, open the terminal
@@ -211,11 +211,6 @@ The Footer also has simple design and contains only links to Ghost team social m
 - I used to read previouse posts on Slack Code-Institute Channels (PP1, peer code review, my class / Padawans group). These channels and Padawans group are showing past issues that others were facing with their codes in adition to some solutions suggested by alumnis. These info and posts increase my knowledge because I like to read and search in Slack Channels even if i don't have issues with my codes. Hence this will make me know more what others were facing in their codes and in some cases I got the chance to suggest them my solution and see if it's wrong or correct.
 
 - I want to add small note that I played some online games which made me remember all the Situations, details and values inside flexbox and Grid properties with examples. These games are: [Mastery Games](https://mastery.games/post/flexboxzombies2/), [Grid Garden](https://cssgridgarden.com/) and [Flex Froggy](https://flexboxfroggy.com/). "I highly recommend these games to anyone who would like to master flexbox and grid properties".
-
-### Media
-- The video inside Missions page is from ["Youtube -Mercedes-Benz"](https://youtu.be/MbbDADY4GTA).
-
-- The Website images are from ["hdqwalls website -Mercedes-Benz"](https://hdqwalls.com/call-of-duty-mobile-2019-wallpaper).
 
 ### Acknowledgements
 
